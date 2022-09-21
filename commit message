@@ -1,0 +1,10 @@
+fix: a forget password
+
+
+the login in system users couldnot return his email if he forget password
+fix by add a forget password  recovery to retrun password by use email or phone number 
+
+
+If you use an issue tracker, put references to them at the bottom, like this:
+Resolves: #123
+See also: #456, #789
